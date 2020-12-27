@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="129242" started-at="2020-12-27T10:40:49Z" finished-at="2020-12-27T10:42:58Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="129242" started-at="2020-12-27T10:40:49Z" finished-at="2020-12-27T10:42:58Z">
+      <class name="com.ATQA2020Lagoshin.FirstWebTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="setup" is-config="true" duration-ms="4471" started-at="2020-12-27T10:40:49Z" finished-at="2020-12-27T10:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mainUrlTest()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="mainUrlTest" duration-ms="19498" started-at="2020-12-27T10:40:53Z" finished-at="2020-12-27T10:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainUrlTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="tearDown" is-config="true" duration-ms="686" started-at="2020-12-27T10:41:13Z" finished-at="2020-12-27T10:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="setup" is-config="true" duration-ms="3363" started-at="2020-12-27T10:41:14Z" finished-at="2020-12-27T10:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="newTestSecond()[pri:1, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="newTestSecond" duration-ms="18475" started-at="2020-12-27T10:41:17Z" finished-at="2020-12-27T10:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTestSecond -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="tearDown" is-config="true" duration-ms="678" started-at="2020-12-27T10:41:35Z" finished-at="2020-12-27T10:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="setup" is-config="true" duration-ms="3151" started-at="2020-12-27T10:41:36Z" finished-at="2020-12-27T10:41:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="newTestThird()[pri:2, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="newTestThird" duration-ms="20116" started-at="2020-12-27T10:41:39Z" finished-at="2020-12-27T10:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTestThird -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="tearDown" is-config="true" duration-ms="663" started-at="2020-12-27T10:41:59Z" finished-at="2020-12-27T10:42:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="setup" is-config="true" duration-ms="3091" started-at="2020-12-27T10:42:00Z" finished-at="2020-12-27T10:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="newTestFourth()[pri:3, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="newTestFourth" duration-ms="24921" started-at="2020-12-27T10:42:03Z" finished-at="2020-12-27T10:42:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTestFourth -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="tearDown" is-config="true" duration-ms="666" started-at="2020-12-27T10:42:28Z" finished-at="2020-12-27T10:42:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="setup" is-config="true" duration-ms="3101" started-at="2020-12-27T10:42:29Z" finished-at="2020-12-27T10:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="newTestFifth()[pri:4, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="newTestFifth" duration-ms="25662" started-at="2020-12-27T10:42:32Z" finished-at="2020-12-27T10:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTestFifth -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ATQA2020Lagoshin.FirstWebTests@61dc03ce]" name="tearDown" is-config="true" duration-ms="663" started-at="2020-12-27T10:42:57Z" finished-at="2020-12-27T10:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ATQA2020Lagoshin.FirstWebTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
